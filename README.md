@@ -13,7 +13,7 @@ Al momento de crear un mapa nos encontramos con muchos problemas con el sistema 
 
 CODIGO FINAL FINAL VERSION ULTIMATE LEON & FORNE'S CODE
 
-## Se usaron todas las librerias para asegurar que no hubiera ningun tipo error.
+### Se usaron todas las librerias para asegurar que no hubiera ningun tipo error.
 
 #!/usr/bin/env pybricks-micropython
 
