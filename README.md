@@ -33,7 +33,7 @@ from pybricks.media.ev3dev import SoundFile, ImageFile
 
 import math
 
-## Asignamos un puerto para el Servomotor y el Sensor ultrasonico
+### Asignamos un puerto para el Servomotor y el Sensor ultrasonico
 
 #Configuración del motor y el sensor
 
@@ -41,7 +41,7 @@ motor = Motor(Port.B)
 
 ultrasonic_sensor = UltrasonicSensor(Port.S2)
 
-## Congiguramos el sonar y servomotor para que se muestre cada 10°, la velocidad de servo y la distancia que capta el sonar 
+### Congiguramos el sonar y servomotor para que se muestre cada 10°, la velocidad de servo y la distancia que capta el sonar 
 
 #Función para escanear el entorno
 
@@ -69,7 +69,7 @@ def scan_environment():
     
     return obstacles
 
-## Creacion del mapa donde establecemos su tamaño, la posición del robot en el mapa y los obstaculos muestreados.
+### Creacion del mapa donde establecemos su tamaño, la posición del robot en el mapa y los obstaculos muestreados.
 
 def generate_obstacle_map(obstacles, robot_position):
 
@@ -105,7 +105,7 @@ def generate_obstacle_map(obstacles, robot_position):
        
         print(row)
 
-## Imprimimos el mapa en la terminal
+### Imprimimos el mapa en la terminal
 
 #Escanear el entorno y generar el mapa de obstáculos
 
