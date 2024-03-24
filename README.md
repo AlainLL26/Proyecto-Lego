@@ -3,11 +3,24 @@
 # Problema a resolver
 
 # Proceso de Construcción fisica
-Para la construccion de un radar mediante LEGO inspirado en los radares 360 típicos de la aviación o de submarinos , se empleo un diseño que combine la facilidad de las piezas de LEGO con el funcionamiento de servomotores y un sensor ultrasónico. En primer lugar, se diseño  una base utilizando piezas que garanticen estabilidad en el sistema operativo, esta base esta especialmente diseñada para sostener el brick de LEGO de forma segura y estable. Esta base es esencial para asegurar que el radar pueda operar sin riesgo de caídas o desequilibrios durante su funcionamiento.
+Para la construccion de un radar mediante LEGO inspirado en los radares 360 típicos de la aviación o de submarinos , se empleo un diseño que combine la facilidad de las piezas de LEGO con el funcionamiento de servomotores y un sensor ultrasónico el diseño que nosotros optamos fue en ase a nuestar creatividad y gustos personales en base a nuestras conocimiento. En primer lugar, se diseño  una base utilizando piezas que garanticen estabilidad en el sistema operativo, esta base esta especialmente diseñada para sostener el brick de LEGO de forma segura y estable. Esta base es esencial para asegurar que el radar pueda operar sin riesgo de caídas o desequilibrios durante su funcionamiento.
+
+<p align="center">
+  <img src="https://github.com/AlainLL26/Proyecto-Lego/assets/159480358/f1688715-61fa-4e2d-bc09-94c243cfad4c" width="300" alt="Texto alternativo">
+</p>
 
 Una vez completada la base, se procede a montar una plataforma giratoria sobre ella mediante un motor adecuado. Este motor se adapto de manera que  permite el  movimiento giratoria de la plataforma en un rango completo de 360 grados. Esta capacidad de giro es esencial para que el radar pueda explorar todo su entorno y detectar cualquier objeto que se encuentre en su alcance.
 
+<p align="center">
+  <img src="https://github.com/AlainLL26/Proyecto-Lego/assets/159480358/f67181cc-54ef-48f5-a0b2-ba11f5dda573" width="300" alt="Texto alternativo">
+</p>
+
 Luego, se integra el sensor ultrasónico en la parte superior de la estructura, asegurando su posición para maximizar su capacidad de detección. Es importante que el sensor ultrasónico tenga una vista libre y sin obstrucciones estructurales  para garantizar mediciones precisas y fiables. Por lo tanto, se asegura de que no haya obstáculos que puedan bloquear su campo de visión, permitiéndole detectar objetos en todas las direcciones sin interferencias.
+
+<p align="center">
+  <img src="https://github.com/AlainLL26/Proyecto-Lego/assets/159480358/eebc5364-526e-4d82-956d-fc9676326f42" width="300" alt="Texto alternativo">
+</p>
+
 
 Por otro lado, se resolvió un problema en el diseño ya que los cables de conexión para el servomotor, sensor y para que se conectara a la computadora tuvieron que ser acomodados con base a que se pudiera lograr el movimiento adecuado sin tener alguna interferencia hacia el motor o alguna desconexión en el proceso para que todo pudiera funcionar de manera correcta 
 
@@ -68,14 +81,14 @@ Leave a comment
 
 robot_position = (0, 0)  # Posición inicial del robot (suposición)
 
-Muestra del funcionamiento del Radar:
-
-
-https://github.com/AlainLL26/Proyecto-Lego/assets/132616532/3a32b5a6-39a5-444c-beb3-4dd6176a7ebb
-
-https://youtube.com/shorts/lXxNpzi4Lq8
-
 # Conclusiones
 
+Al final del proyecto la construcción física del radar implicó la selección cuidadosa de piezas de LEGO para crear una estructura sólida y estable que pudiera soportar el movimiento giratorio requerido para escanear el entorno en todas las direcciones. Se emplearon técnicas de ingeniería para garantizar la durabilidad y la estabilidad del mecanismo de giro, así como para minimizar la posibilidad de fallos durante el funcionamiento.
+
+El desarrollo del software en MicroPython fue un aspecto fundamental del proyecto. Se escribió código para controlar los motores y el sensor ultrasónico, coordinando el movimiento giratorio del radar con la detección de obstáculos en tiempo real. Se implementaron algoritmos para registrar la posición del radar, identificar obstáculos y generar un mapa visual que representara la distribución espacial de los objetos detectados.
+
+La integración de la estructura física con el software de control fue una fase crítica del proyecto, que requirió pruebas exhaustivas y ajustes para garantizar un funcionamiento sin problemas del sistema en su conjunto. Se llevaron a cabo ajustes continuos y refinamientos en el diseño y el código para optimizar el rendimiento y la precisión del radar.
+
+En última instancia, el proyecto culminó con la creación de un radar de LEGO EV3 de 360 grados totalmente funcional y efectivo para la detección de obstáculos. Este logro no solo demuestra la capacidad de ingeniería y resolución de problemas del equipo, sino que también resalta el potencial educativo y práctico de la tecnología LEGO en la enseñanza de conceptos de robótica y automatización.
 
 
