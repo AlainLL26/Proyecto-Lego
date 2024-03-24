@@ -81,6 +81,13 @@ Leave a comment
 
 robot_position = (0, 0)  # Posición inicial del robot (suposición)
 
+Funcionamiento del Radar 
+
+
+https://github.com/AlainLL26/Proyecto-Lego/assets/132616532/d926de5d-941f-4282-bbee-c52bdac4c6bf
+
+https://youtube.com/shorts/lXxNpzi4Lq8
+
 # Conclusiones
 
 Al final del proyecto la construcción física del radar implicó la selección cuidadosa de piezas de LEGO para crear una estructura sólida y estable que pudiera soportar el movimiento giratorio requerido para escanear el entorno en todas las direcciones. Se emplearon técnicas de ingeniería para garantizar la durabilidad y la estabilidad del mecanismo de giro, así como para minimizar la posibilidad de fallos durante el funcionamiento.
