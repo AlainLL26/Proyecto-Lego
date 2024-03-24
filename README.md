@@ -70,6 +70,9 @@ robot_position = (0, 0)  # Posición inicial del robot (suposición)
 
 Muestra del funcionamiento del Radar:
 
+
+https://github.com/AlainLL26/Proyecto-Lego/assets/132616532/3a32b5a6-39a5-444c-beb3-4dd6176a7ebb
+
 https://youtube.com/shorts/lXxNpzi4Lq8
 
 # Conclusiones
