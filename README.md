@@ -68,6 +68,10 @@ Leave a comment
 
 robot_position = (0, 0)  # Posición inicial del robot (suposición)
 
+Muestra del funcionamiento del Radar:
+
+https://youtube.com/shorts/lXxNpzi4Lq8
+
 # Conclusiones
 
 
